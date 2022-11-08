@@ -61,13 +61,13 @@ confusion
 ```
 
 ## Output:
-![placement_salary_data](placement and salary.png)
-![null_duplicate](null and duplicate.png)
-![data](print data.png)
-![status](data status.png)
-![ypredict](ypredict array.png)
+![placement_salary_data](placement_salary.png)
+![null_duplicate](null_duplicate.png)
+![data](print_data.png)
+![status](data_status.png)
+![ypredict](ypredict_array.png)
 ![accuracy](accuracy.png)
-![confusion_array](confusion array.png)
+![confusion_array](confusion_array.png)
 
 
 ## Result:
