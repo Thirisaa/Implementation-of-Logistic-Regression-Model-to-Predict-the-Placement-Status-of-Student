@@ -61,7 +61,13 @@ confusion
 ```
 
 ## Output:
-![predicted result](exp4_op.png)
+![placement_salary_data](placement and salary.png)
+![null_duplicate](null and duplicate.png)
+![data](print data.png)
+![status](data status.png)
+![ypredict](ypredict array.png)
+![accuracy](accuracy.png)
+![confusion_array](confusion array.png)
 
 
 ## Result:
