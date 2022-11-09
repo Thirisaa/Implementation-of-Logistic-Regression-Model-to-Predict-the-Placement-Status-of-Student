@@ -60,6 +60,10 @@ accuracy
 from sklearn.metrics import confusion_matrix
 confusion=(y_test,y_pred)
 confusion
+from sklearn.metrics import classification_report
+classification_report1=classification_report(y_test,y_pred)
+print(classification_report1)
+lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 */
 ```
 
@@ -70,7 +74,9 @@ confusion
 ![status](data_status.png)
 ![ypredict](ypredict_array.png)
 ![accuracy](accuracy.png)
-![confusion_array](confusion_array.png)
+![confusion_matrix](confusion_array.png)
+![classsification report and prediction of lr](classification_report_predict_lr.png)
+
 
 
 ## Result:
